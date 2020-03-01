@@ -50,3 +50,17 @@ This is simple parallel library
 
 ```
 
+## Available func.
+
+```
+func ()
+func (...interface{})
+func () interface{}
+func (...interface{}) interface{}
+```
+
+## Availavle parametar
+Pass the parameters used by the function to the variable length argument.
+example3.
+
+
